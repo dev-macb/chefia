@@ -1,0 +1,18 @@
+{
+    "name": "dev-macb/chefia",
+    "description": "Abstração do PDO",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "DevMacb\\Chefia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Alves Cordeiro Braz",
+            "email": "dev.macb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
